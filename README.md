@@ -1,2 +1,2 @@
-# EEC_Documents
-EEC Document
+### EEC_Documents
+- Materials for Electronic-Electrical Devices Course
